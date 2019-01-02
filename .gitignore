@@ -53,3 +53,5 @@ docs/_build/
 .venv/*
 .vscode/*
 *.code-workspace
+app.db
+README

@@ -1,0 +1,1 @@
+- In Powershell use $env:FLASK_APP = "run.py" for Environment variables, set does not work.
